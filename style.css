@@ -1,4 +1,8 @@
 :root{
-    --cor-de-fundo:rgba(250, 191, 191, 1);
-    --cor-de-texto:rgba(250, 191, 191, 1);
+    --cor-de-fundo:#FABFBF;
+    --cor-de-texto:#6FFF57;
+    --cor-botao:#A69EFF;
+    --cor-quadrado:#FE9AAC;
+    
+
 }
