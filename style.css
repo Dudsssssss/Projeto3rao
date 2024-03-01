@@ -8,5 +8,6 @@
 
 body{
     background-color: var(--cor-de-fundo);
-color: var(--cor-de-texto);
+    color: var(--cor-de-texto);
+    font-family: 'Chakra Petch',sans-serif;
 }
