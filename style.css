@@ -5,6 +5,7 @@
     --cor-botao:#7F76F5;
     --cor-quadrado:#FE9AAC;
     --botao-inativo:#A69EFF;
+    --branco: #FFFFFF;
 }
 
 body{
@@ -32,4 +33,6 @@ body{
 .botao{
     font-family: 'Chakra Petch,sans-serif';
     background-color: var(--botao-inativo);
+    color: var(--branco);
+    padding: 1em;
 }
