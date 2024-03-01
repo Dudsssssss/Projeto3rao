@@ -2,8 +2,9 @@
 :root{
     --cor-de-fundo:#FABFBF;
     --cor-de-texto:#8D0921;
-    --cor-botao:#A69EFF;
+    --cor-botao:#7F76F5;
     --cor-quadrado:#FE9AAC;
+    --botao-inativo:#A69EFF;
 }
 
 body{
@@ -27,4 +28,8 @@ body{
 }
 .titulo-principal span{
     color: var(#75F8D8);
+}
+.botao{
+    font-family: 'Chakra Petch,sans-serif';
+    background-color: var(--botao-inativo);
 }
