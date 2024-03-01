@@ -1,11 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Chakra+Petch&display=swap');
 :root{
     --cor-de-fundo:#FABFBF;
-    --cor-de-texto:#6FFF57;
+    --cor-de-texto:#DBFBF1;
     --cor-botao:#A69EFF;
     --cor-quadrado:#FE9AAC;
 }
 
 body{
     background-color: var(--cor-de-fundo);
+    background-color: var(--cor-de-texto);
+    background-color: var(--cor-botao);
+    background-color: var(--cor-quadrado);
 }
