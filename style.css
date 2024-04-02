@@ -6,7 +6,7 @@
     --cor-quadrado:#FE9AAC;
     --botao-inativo:#A69EFF;
     --branco: #FFFFFF;
-    --botao-ativo:#8d0921;
+    --botao-ativo:#16c90f;
     --botao-linha:#94FF0D;
 }
 
@@ -30,7 +30,7 @@ body{
     font-size: 32px;
 }
 .titulo-principal span{
-    color: var(#75F8D8);
+    color: #75F8D8;
 }
 .botao{
     font-family: 'Chakra Petch,sans-serif';
