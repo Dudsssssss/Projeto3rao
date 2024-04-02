@@ -8,6 +8,6 @@ botoes[i].onclick = function(){
    textos[j].classlist.remove("ativo");
  }
   botoes[i].classlist.add("ativo") 
-  textos[j].classlist.remove("ativo");
+  textos[i].classlist.add("ativo");
 }
 }
