@@ -15,4 +15,10 @@ const contadores = document.querrySelectorAll(".contador");
 const tempoObjetivo1 = new Date("2024-12-22T00:00:00");
 let tempoAtual = new Date();
 
+
+for (let = i= 0; i< contadores.length; i++){
+    contadores[0].textContent = cauculaTempo(tempos[i]);
+
+}
+
 contadores[0].textContent = tempoObjetivo1 - tempoAtual;
